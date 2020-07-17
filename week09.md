@@ -20,6 +20,6 @@ yourself with the code in the related notebooks.
 
 * [ch02.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch02/ch02.ipynb)
 * [ch03.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch03/ch03.ipynb)
-    * Only the part relating to logistic regression
+    * Only the cells relating to logistic regression
 * [ch12.ipynb](https://github.com/rasbt/python-machine-learning-book-3rd-edition/blob/master/ch12/ch12.ipynb)
 
