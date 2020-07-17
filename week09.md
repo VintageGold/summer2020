@@ -11,8 +11,8 @@ yourself with the code in the related notebooks.
 * Watch the MIT 6.S191 video for Lecture 1 on www.introtodeeplearning.com
 * Raschka & Mirjalili, 3rd Edition, Chapter 2: Training Simple Machine Learning Algorithms for Classification
     * The entire chapter
-* Raschka & Mirjalili, 3rd Edition, Chapter 3: 
-    * The section on "Modeling class probabilities via logistic regression"
+* Raschka & Mirjalili, 3rd Edition, Chapter 3: A Tour of Machine Learning Classifiers Using Scikit-Learn
+    * Only the section on "Modeling class probabilities via logistic regression"
 * Raschka & Mirjalili, 3rd Edition, Chapter 12: Training Simple Machine Learning Algorithms for Classification
     * The entire chapter
 
