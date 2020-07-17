@@ -3,7 +3,7 @@
 
 * In preparation for the next class, do the reading and familiarize 
 yourself with the code in the related notebooks.
-* Ideally, you will be able to run the code in Colab.
+* Ideally, you will be able to run the notebooks listed below in Colab.
 * There will be a quick quiz at the beginning of class on the video and reading.
 
 ### Video & Reading
